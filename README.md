@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zacharia Dolal
-- 👀 I’m interested in ... Python Programming
+- 👀 I’m interested in ... Python Programming.
 - 🌱 I’m currently learning ... Data Structures and Algorithms 
 - 📫 How to reach me ... zacharia.dolal@gmail.com
 
